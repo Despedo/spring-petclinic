@@ -35,8 +35,8 @@
     <!-- Spring and Spring Boot dependencies -->
       <dependency>
           <groupId>com.google.cloud</groupId>
-          <artifactId>google-cloud-logging-logback</artifactId>
-          <version>0.108.0-alpha</version>
+          <artifactId>google-cloud-logging</artifactId>
+          <version>1.90.0</version>
       </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
